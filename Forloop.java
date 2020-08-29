@@ -32,6 +32,10 @@ public class Homeassignment {
         String s = sc.nextLine();
         assignment ass=new assignment();
         System.out.println(ass.count(s));
+
+	System.opt.println("done with for loops");
+
+	System.out.println("wait")
         // TODO code application logic here
     }
     
